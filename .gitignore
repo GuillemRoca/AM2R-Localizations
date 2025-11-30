@@ -1,0 +1,19 @@
+# JetBrains IDEs
+.idea/
+
+# macOS
+.DS_Store
+
+# Node / general logs (just in case)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Thumbnails
+._*
